@@ -1,19 +1,21 @@
-# [Nome do projeto]
+# What-Is-The-Question
 
-[Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.]
-
+O objetivo do projeto é criar uma plataforma de jogos de  perguntas e respostas focado no aprendizado envolvente, divertido e motivador, que pode ser jogado em grupos que competem entre si para saber quem performa melhor diante das perguntas apresentadas, e no final, quem acertar mais perguntas e com mais velocidade vence.
 ## Alunos integrantes da equipe
 
-* [Nome completo do aluno 1]
-* [Nome completo do aluno 2]
-* [Nome completo do aluno 3]
-* [Nome completo do aluno 4]
+* André Avelar Moriya Sathler
+* Gustavo Henrique dos Santos Riegert
+* Ian Matsuhara Ferraz
+* Lucas Santos Rosa
+* Matheus Fontes Almeida Moreira Silva
+* Pedro de Sousa Motta
+* Samuel Lincoln de Oliveira Gomes
 
 ## Professores responsáveis
 
-* [Nome completo do professor 1]
-* [Nome completo do professor 2]
+* Cleiton Silva Tavares
+* Hugo Bastos de Paula
 
 ## Instruções de utilização
 
-[Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.]
+
