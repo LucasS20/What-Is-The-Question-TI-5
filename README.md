@@ -15,6 +15,7 @@ O objetivo do projeto é criar uma plataforma de jogos de  perguntas e respostas
 
 * Cleiton Silva Tavares
 * Hugo Bastos de Paula
+* Pedro Pongelupe Lopes
 
 ## Instruções de utilização
 
